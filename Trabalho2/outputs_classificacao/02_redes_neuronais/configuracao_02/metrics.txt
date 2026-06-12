@@ -1,0 +1,9 @@
+Accuracy: 71.42%
+
+O modelo parou de melhorar na iteração: 69
+
+Métricas Médias (K-fold):
+['accuracy']: 0.709 (+/- 0.007)
+['precision', 'macro']: 0.666 (+/- 0.008)
+['recall', 'macro']: 0.645 (+/- 0.009)
+['f1', 'macro']: 0.650 (+/- 0.009)

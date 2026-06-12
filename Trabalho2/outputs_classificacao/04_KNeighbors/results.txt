@@ -1,0 +1,66 @@
+Metrics for k =  1
+Accuracy:  0.536 (+/- 0.002)
+F1-Score:  0.492
+Recall_Macro-Score:  0.491
+Precision_Macro-Score:  0.493
+--------------------------------------------------------------------
+Metrics for k =  3
+Accuracy:  0.551 (+/- 0.009)
+F1-Score:  0.494
+Recall_Macro-Score:  0.500
+Precision_Macro-Score:  0.494
+--------------------------------------------------------------------
+Metrics for k =  5
+Accuracy:  0.566 (+/- 0.009)
+F1-Score:  0.487
+Recall_Macro-Score:  0.496
+Precision_Macro-Score:  0.496
+--------------------------------------------------------------------
+Metrics for k =  7
+Accuracy:  0.565 (+/- 0.008)
+F1-Score:  0.483
+Recall_Macro-Score:  0.489
+Precision_Macro-Score:  0.494
+--------------------------------------------------------------------
+Metrics for k =  9
+Accuracy:  0.560 (+/- 0.014)
+F1-Score:  0.474
+Recall_Macro-Score:  0.482
+Precision_Macro-Score:  0.486
+--------------------------------------------------------------------
+Metrics for k =  11
+Accuracy:  0.558 (+/- 0.011)
+F1-Score:  0.464
+Recall_Macro-Score:  0.474
+Precision_Macro-Score:  0.481
+--------------------------------------------------------------------
+Metrics for k =  13
+Accuracy:  0.564 (+/- 0.013)
+F1-Score:  0.469
+Recall_Macro-Score:  0.478
+Precision_Macro-Score:  0.490
+--------------------------------------------------------------------
+Metrics for k =  15
+Accuracy:  0.563 (+/- 0.007)
+F1-Score:  0.465
+Recall_Macro-Score:  0.476
+Precision_Macro-Score:  0.488
+--------------------------------------------------------------------
+Metrics for k =  17
+Accuracy:  0.561 (+/- 0.009)
+F1-Score:  0.456
+Recall_Macro-Score:  0.470
+Precision_Macro-Score:  0.483
+--------------------------------------------------------------------
+Metrics for k =  19
+Accuracy:  0.562 (+/- 0.009)
+F1-Score:  0.456
+Recall_Macro-Score:  0.469
+Precision_Macro-Score:  0.487
+--------------------------------------------------------------------
+Metrics for k =  21
+Accuracy:  0.562 (+/- 0.012)
+F1-Score:  0.453
+Recall_Macro-Score:  0.468
+Precision_Macro-Score:  0.488
+--------------------------------------------------------------------
